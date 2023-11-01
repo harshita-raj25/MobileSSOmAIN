@@ -1,0 +1,27 @@
+dependency org.apache.commons:commons-codec:1.15
+dependency org.json:json:20230227
+dependency com.fasterxml.jackson.core:jackson-annotations:2.14.1
+dependency com.fasterxml.jackson.core:jackson-core:2.14.1
+dependency com.fasterxml.jackson.core:jackson-databind:2.14.1
+dependency com.auth0:java-jwt:3.11.0
+dependency com.auth0:jwks-rsa:0.13.0
+dependency com.nimbusds:nimbus-jose-jwt:9.31
+delete commons-codec-1.15.jar
+delete commons-codec-1.15.jar.OIDC.RequiredLib
+delete json-20230227.jar
+delete json-20230227.jar.OIDC.RequiredLib
+delete jackson-annotations-2.14.1.jar
+delete jackson-annotations-2.14.1.jar.OIDC.RequiredLib
+delete jackson-core-2.14.1.jar
+delete jackson-core-2.14.1.jar.OIDC.RequiredLib
+delete jackson-databind-2.14.1.jar
+delete jackson-databind-2.14.1.jar.OIDC.RequiredLib
+delete java-jwt-3.11.0.jar
+delete java-jwt-3.11.0.jar.OIDC.RequiredLib
+delete jwks-rsa-0.13.0.jar
+delete jwks-rsa-0.13.0.jar.OIDC.RequiredLib
+delete nimbus-jose-jwt-9.31.jar
+delete nimbus-jose-jwt-9.31.jar.OIDC.RequiredLib
+
+
+
